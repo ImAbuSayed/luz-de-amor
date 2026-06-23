@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/luz-de-amor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Luz de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/luz-de-amor/) |
+| **Get License** | [Official Music Licensing for Luz de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/luz-de-amor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> La noche cae y yo buscando tu calor
+> Baby tú tienes la clave, mi luz de amor
+> Brillando en lo oscuro con ese glow
+> Me tienes adicto, perdiendo el control
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
